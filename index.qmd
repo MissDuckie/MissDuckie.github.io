@@ -1,0 +1,36 @@
+---
+title: "Kendall Reed"
+image: IMG_3708.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:kendall.reed@ucdenver.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/MissDuckie/MissDuckie.github.io
+    - text: YouTube
+      icon: youtube
+      href: https://www.youtube.com/watch?v=dQw4w9WgXcQ #This was a rickroll btw. It would have been funny if my website actually worked ugh
+    - text: resume
+      icon: file-text
+      href: Kendall_Resume-1.png
+  id: ppc
+---
+:::{#ppc}
+#I love my cat. Here is a picture of my cat
+
+![My cat is lazy but I love her] (IMG_0746.png)
+
+If you like cats, then that's all you need to hire me
+
+#I graduated in the top 20% of my class
+
+#I worked in the neurology department at CU Anschutz
+
+#I won intern of the year in high school
+
+:::
